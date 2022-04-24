@@ -1,0 +1,16 @@
+{
+  "name": "download-file",
+  "version": "1.0.0",
+  "description": "nodejs 文件下载器",
+  "main": "index.js",
+  "scripts": {
+    "download": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sogrey",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "download": "^8.0.0"
+  }
+}
